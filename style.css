@@ -1,0 +1,99 @@
+#icon{
+    border-radius: 50%;
+}
+    
+  #icon1{
+
+    border-radius: 50%;
+    background-image: fixed;
+    background-position: center;
+    height: 180px;
+    background-size: cover;
+  }
+#formbg{
+
+  background-color: lightgray;
+border-radius: 40px;
+  opacity: 0.8;
+
+} 
+
+#explain{
+margin-left: 110px;
+
+} 
+#margintext{
+
+margin-left: 110x;
+  
+}
+#background{
+
+background-image: url(image/background.jpg);
+background-position: center; 
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: scroll;
+
+} 
+
+
+#p1{
+
+  opacity: 0.6;
+}
+#carimg{
+
+  height: 500px;
+  margin: 0px;
+  
+}  
+#imag{
+  transition: all 2s;
+}
+ #imag:hover{
+
+  transform: scale(1.2);
+ }
+
+
+ #location{
+
+background-image: url(image/l3.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 550px ;
+
+
+ }
+#pop{
+background-color:white ;
+border: 2px solid black;
+width: 400px;
+height: 300px;
+border-radius: 20px;
+
+}
+#pop1{
+  background-color: black;
+  color: white;
+  opacity: 0.8;
+  width: 350px;
+height: 300px;
+margin-top: 140px;
+border-radius: 40px;
+}
+
+#cardcolor{
+background-color: white;
+border-radius: 10px;
+transition: all 2s;
+
+}
+
+#cardcolor:hover{
+
+  transform: scale(1.1);
+}
+
